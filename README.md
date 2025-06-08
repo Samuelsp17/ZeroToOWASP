@@ -20,7 +20,7 @@ Aqui estão as 10 vulnerabilidades mais críticas em aplicações web, conforme 
 
 ---
 
-### 1. A01:2021 — Broken Access Control (Controle de Acesso Quebrado)  
+### [1. A01:2021 — Broken Access Control (Controle de Acesso Quebrado)](https://github.com/Samuelsp17/ZeroToOWASP/tree/main/A01-Broken-Acess-Control)  
 Permite que usuários não autorizados acessem funcionalidades ou dados restritos.  
 Exemplos:
 - Acesso a APIs privadas
